@@ -1,4 +1,4 @@
-# `pongGame` — the Multiplayer Game which developed using Sockets lib and Angularjs framework
+# `PongGame` — the Multiplayer Game which developed using Sockets lib and Angularjs framework
 
 ## Getting Started
 
