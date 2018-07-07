@@ -1,4 +1,4 @@
-# `pongGame` — the Multiplayer Game which developed using Stocket lib and Angularjs framework
+# `pongGame` — the Multiplayer Game which developed using Sockets lib and Angularjs framework
 
 ## Getting Started
 
@@ -85,3 +85,4 @@ npm run test-single-run
 [karma]: https://karma-runner.github.io/
 [node]: https://nodejs.org/
 [npm]: https://www.npmjs.org/
+[socket]: https://socket.io/
