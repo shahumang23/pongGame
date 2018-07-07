@@ -1,0 +1,33 @@
+{
+  "name": "pong",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Pong Game",
+  "repository": "https://github.com/shahumang23/pongGame",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "bootstrap": "4.0.x",
+    "jquery": "3.2.1",
+    "express": "^4.16.3",
+    "socket.io": "^1.7.4",
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.8",
+    "karma-junit-reporter": "^0.4.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "karma start karma.conf.js",
+    "test-single-run": "karma start karma.conf.js --single-run"
+  }
+}
